@@ -1,0 +1,39 @@
+#total {
+
+    background-color:  rgb(237, 234, 210);
+   
+}
+
+p{
+    
+    margin-top: 40px;  
+    margin-left: -5px;
+    
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+
+
+#login{
+    
+    margin-top: 200px;
+    background-color: #BFBFBF;
+    border-radius: 25px;
+    border: 2px hidden;
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+       
+}
+
+
+#botao_entrar{
+
+    margin-bottom: 15px;
+
+}
